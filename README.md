@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Converter
 
 Convert XML to JSON
@@ -17,3 +18,6 @@ Convert XML to JSON
 
 ## *Author Name*
 Azhad Ghufran
+=======
+# Convert_XML_To_JSON
+>>>>>>> 9197f32f03ee312359c1ef89e6a2672017619491
